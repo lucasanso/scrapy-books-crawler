@@ -7,7 +7,7 @@ $ python3 -m venv venv && source/venv/bin/activate
 ```
 ### Instalando dependências
 ```bash
-$ cd ./teste/teste && pip install -r requirements
+$ cd ./teste/teste && pip install -r requirements.txt
 ```
 ### Executando spider
 ```bash
